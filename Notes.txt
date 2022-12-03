@@ -1,0 +1,9 @@
+1- nav bar section
+2- landing section
+3- statistics section
+4- appartments section
+5- our work section
+6- services section
+7- our agents section
+8- adds section
+9- footer section

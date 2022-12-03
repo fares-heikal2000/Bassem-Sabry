@@ -1,0 +1,32 @@
+:root {
+    --main-color : #00202f;
+    --secandary-color : #ffc107;
+}
+@media (max-width: 767px) {
+    /* Start Nav */
+    nav .links .Toggle-menu {
+        display: block;
+    }
+    nav .container  ul {
+        display: none;
+    }
+    nav .container .buts {
+        display: none;
+    }
+    nav .links {
+        position: relative;
+    }
+    nav .container ul {
+        position: absolute;
+        bottom: -190px;
+        right: 0;
+    }
+    nav .container ul li {
+        padding: 10px 30px;
+        background-color: var(--main-color);
+        color: white;
+        
+    }
+    
+    /* Start Nav */
+}
